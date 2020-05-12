@@ -1,16 +1,17 @@
 ***
 
-* [0. Python]({{ "/weeks/0" | relative_url }})
-* [1. Algorithms]({{ "/weeks/1" | relative_url }})
-* [2. Data Structures]({{ "/weeks/2" | relative_url }})
-* [3. Efficiency]({{ "/weeks/3" | relative_url }})
-* [4. OOP]({{ "/weeks/4" | relative_url }})
-* [5. Simulation]({{ "/weeks/5" | relative_url }})
-* [6. Modeling]({{ "/weeks/6" | relative_url }})
-* [7. Optimization]({{ "/weeks/7" | relative_url }})
-* [8. Clustering]({{ "/weeks/8" | relative_url }})
-* [9. Graph Models]({{ "/weeks/9" | relative_url }})
-* [10. Queing Network Models]({{ "/weeks/10" | relative_url }})
+* [00. Python]({{ "/weeks/0" | relative_url }})
+* [01. Algorithms]({{ "/weeks/1" | relative_url }})
+* [02. Recursion]({{ "/weeks/2" | relative_url }})
+* [03. Efficiency]({{ "/weeks/3" | relative_url }})
+* [04. Memory]({{ "/weeks/4" | relative_url }})
+* [05. OOP]({{ "/weeks/5" | relative_url }})
+* [06. Simulation]({{ "/weeks/6" | relative_url }})
+* [07. Stochastic Models]({{ "/weeks/7" | relative_url }})
+* [08. Optimization]({{ "/weeks/8" | relative_url }})
+* [09. Clustering]({{ "/weeks/9" | relative_url }})
+* [10. Graph Models]({{ "/weeks/10" | relative_url }})
+* [11. Queing Network Models]({{ "/weeks/11" | relative_url }})
 
 ***
 

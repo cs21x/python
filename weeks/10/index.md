@@ -1,44 +1,28 @@
 # Week 10
 
-1.  Watch [Lecture 24](#lecture24)
-2.  Watch [Lecture 25](#lecture25)
-3.  Watch [Lecture 26](#lecture26)
-4.  Attend [Section](https://www.youtube.com/embed/7BpomdjZ_Os)
+1.  Watch [Lecture 22](#lecture22)
+2.  Watch [Lecture 23](#lecture23)
+3.  Attend [Section](https://www.youtube.com/embed/_QnAUd-em3E)
+4.  Submit [Problem Set 11]({{ "/psets/11" | relative_url }})
 
-### Lecture 24
+### Lecture 22
 <details>
-  <summary id="lecture24">Avoiding Statistical Fallacies</summary>
+  <summary id="lecture22">Using Graphs to Model Problems II</summary>
 
 <div>
     <br>
-    <iframe width="885" height="498" src="https://www.youtube.com/embed/K1w2o5i0NGQ?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    <ul>
-        <li><a href="https://www.dropbox.com/s/dl/2omaxmjpk11trbt/lecture07.zip?dl=0">Source Code</a></li>
-        <li><a href="https://archive.org/download/MIT6.00SCS11/MIT6_00SCS11_lec07_300k.mp4">Video</a></li>
-    </ul>
-</div>
-  
-</details>  
-
-### Lecture 25
-<details>
-  <summary id="lecture25">Queuing Network Models</summary>
-
-<div>
-    <br>
-    <iframe width="664" height="498" src="https://www.youtube.com/embed/aqd0sR5rygk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hmtXhZTfAes?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 </details>
 
-### Lecture 26
+### Lecture 23
 <details>
-  <summary id="lecture26">What Do Computer Scientists Do?</summary>
+  <summary id="lecture23">Dynamic Programming</summary>
 
 <div>
     <br>
-    <iframe width="664" height="498" src="https://www.youtube.com/embed/A2WFReES8CY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="885" height="498" src="https://www.youtube.com/embed/lFngfmE9RCc?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 </details>

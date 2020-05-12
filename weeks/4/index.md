@@ -1,9 +1,20 @@
 # Week 4
 
-1.  Watch [Lecture 10](#lecture10)
-2.  Watch [Lecture 11](#lecture11)
-3.  Attend [Section](https://www.youtube.com/embed/7BpomdjZ_Os)
+1.  Watch [Lecture 9](#lecture9)
+2.  Watch [Lecture 10](#lecture10)
+3.  Attend [Section](https://www.youtube.com/embed/8I0BmT1ccuw)
 4.  Submit [Problem Set 5]({{ "/psets/5" | relative_url }})
+
+### Lecture 9
+<details>
+  <summary id="lecture9">Memory and Search Methods</summary>
+
+<div>
+    <br>
+    <iframe width="664" height="498" src="https://www.youtube.com/embed/6wTuOMgTrU4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+</details>
 
 ### Lecture 10
 <details>
@@ -21,14 +32,5 @@
   
 </details>  
 
-### Lecture 11
-<details>
-  <summary id="lecture11">Object Oriented Programming</summary>
 
-<div>
-    <br>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/FBpe3xFvPrQ?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-</details> 
 

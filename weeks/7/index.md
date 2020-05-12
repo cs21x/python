@@ -1,35 +1,32 @@
 # Week 7
 
-1.  Watch [Lecture 17](#lecture17)
-2.  Watch [Lecture 18](#lecture18)
-3.  Attend [Section](https://www.youtube.com/embed/7BpomdjZ_Os)
+1.  Watch [Lecture 15](#lecture15)
+2.  Watch [Lecture 16](#lecture16)
+3.  Attend [Section](https://www.youtube.com/embed/FBKxrPEeCSU)
 4.  Submit [Problem Set 8]({{ "/psets/8" | relative_url }})
 
-### Lecture 17
+### Lecture 15
 <details>
-  <summary id="lecture17">Curve Fitting</summary>
+  <summary id="lecture15">Stastical Thinking</summary>
 
 <div>
     <br>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/TIQTYgmavC4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    <ul>
-        <li><a href="https://www.dropbox.com/s/dl/2omaxmjpk11trbt/lecture07.zip?dl=0">Source Code</a></li>
-        <li><a href="https://archive.org/download/MIT6.00SCS11/MIT6_00SCS11_lec07_300k.mp4">Video</a></li>
-    </ul>
-</div>
-  
-</details>  
-
-### Lecture 18
-<details>
-  <summary id="lecture18">Optimization Problems</summary>
-
-<div>
-    <br>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/BRjwkgQct28?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VqZBqoZgL7k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 </details>
+
+### Lecture 16
+<details>
+  <summary id="lecture16">Using Randomness to Solve Non-random Problems</summary>
+
+<div>
+    <br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Q148jV9ljPM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+</details>
+
+
 
 

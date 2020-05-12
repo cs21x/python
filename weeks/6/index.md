@@ -1,10 +1,20 @@
 # Week 6
 
-1.  Watch [Lecture 14](#lecture14)
-2.  Watch [Lecture 15](#lecture15)
-3.  Watch [Lecture 16](#lecture16)
-4.  Attend [Section](https://www.youtube.com/embed/7BpomdjZ_Os)
-5.  Submit [Problem Set 7]({{ "/psets/7" | relative_url }})
+1.  Watch [Lecture 13](#lecture13)
+2.  Watch [Lecture 14](#lecture14)
+3.  Attend [Section](https://www.youtube.com/embed/yVkt3Px4KHA)
+4.  Submit [Problem Set 7]({{ "/psets/7" | relative_url }})
+
+### Lecture 13
+<details>
+  <summary id="lecture13">Basic Probability and Plotting Data</summary>
+
+<div>
+    <br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hGQw3KJ7i6Q?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+</details> 
 
 ### Lecture 14
 <details>
@@ -22,26 +32,6 @@
   
 </details>  
 
-### Lecture 15
-<details>
-  <summary id="lecture15">Statistical Thinking</summary>
 
-<div>
-    <br>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/VqZBqoZgL7k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-</details>
-
-### Lecture 16
-<details>
-  <summary id="lecture16">Using Randomness to Solve Non-random Problems</summary>
-
-<div>
-    <br>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Q148jV9ljPM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-</details>
 
 
