@@ -14,8 +14,8 @@
     <iframe width="664" height="498" src="https://www.youtube.com/embed/bX3jvD7XFPs?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <ul>
-        <li><a href="https://www.dropbox.com/s/dl/2omaxmjpk11trbt/lecture07.zip?dl=0">Source Code</a></li>
-        <li><a href="https://archive.org/download/MIT6.00SCS11/MIT6_00SCS11_lec07_300k.mp4">Video</a></li>
+        <li><a href="https://www.dropbox.com/s/ukk02zm6zz0putx/lecture01.zip?dl=1">Source Code</a></li>
+        <li><a href="https://archive.org/download/MIT6.00SCS11/MIT6_00SCS11_lec01_300k.mp4">Video</a></li>
     </ul>
 </div>
   
@@ -27,8 +27,15 @@
 
 <div>
     <br>
+    <li></li>
     <iframe width="664" height="498" src="https://www.youtube.com/embed/SLvTCHhu5SE?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <ul>
+        <li><a href="https://www.dropbox.com/s/q86lk8zr3587n56/lecture02.zip?dl=1">Source Code</a></li>
+        <li><a href="https://archive.org/download/MIT6.00SCS11/MIT6_00SCS11_lec02_300k.mp4">Video</a></li>
+    </ul>
 </div>
+
 
 </details>
 

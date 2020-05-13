@@ -2,5 +2,5 @@
 
 MIT Open Courseware
 
-Professor John Guttag
+John Guttag
 
