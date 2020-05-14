@@ -27,6 +27,10 @@ Use `input()` to ask for the following three floating point numbers:
 
 For each month, print the **minimum monthly payment**, **remaining balance**, **principle paid** in the format shown in the example below. All numbers should be rounded to the nearest penny. Finally, print the result, which should include the **total amount paid** that year and the **remaining balance**.
 
+## Usage
+
+Your program should behave per the example below:
+
 ```
 $ python minpay.py
 Enter the outstanding balance on your credit card: 4800 
