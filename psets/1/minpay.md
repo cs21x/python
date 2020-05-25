@@ -7,29 +7,27 @@ Write a program to calculate the credit card balance after one year if a person 
 Here's how to download this problem into your own [CS50 IDE](https://ide.cs50.io/). Log into CS50 IDE and then, in a terminal window, execute each of the below.
 
 * Execute `cd` to ensure that you’re in `~/` (i.e., your home directory, aka `~`).
-* If you haven’t already, execute `mkdir cs51x` to make (i.e., create) a directory called `cs51x` in your home directory.
 * Execute `cd cs51x` to change into that directory.
 * Execute `mkdir pset1` to make (i.e., create) a directory called `pset1` in your home directory.
-* Execute `cd pset6` to change into (i.e., open) that directory.
+* Execute `cd pset1` to change into (i.e., open) that directory.
 * Execute wget `https://www.dropbox.com/s/pbmp2pn5y3889de/minpay.zip` to download a (compressed) ZIP file with this problem’s distribution.
-* Execute `unzip dna.zip` to uncompress that file.
-* Execute `rm dna.zip` followed by `yes` or `y` to delete that ZIP file.
+* Execute `unzip minpay.zip` to uncompress that file.
+* Execute `rm minpay.zip` followed by `yes` or `y` to delete that ZIP file.
 * Execute `ls`. You should see a directory called `minpay`, which was inside of that ZIP file.
 * Execute `cd minpay` to change into that directory.
 * Execute `ls`. You should see file `minpay.py`.
 
+## Understanding
 
-Use `input()` to ask for the following three floating point numbers:
+If you open `minpay.py`, you will see three variables for storing the below values from the user.
 
 1. The outstanding balance on the credit card
 2. The annual interest rate
 3. The minimum monthly payment rate
 
-For each month, print the **minimum monthly payment**, **remaining balance**, **principle paid** in the format shown in the example below. All numbers should be rounded to the nearest penny. Finally, print the result, which should include the **total amount paid** that year and the **remaining balance**.
+Your task is to print the `minimum monthly payment`, `remaining balance` and `principle paid` for each month in the format shown in the example below. All numbers should be rounded to the nearest penny. 
 
-## Usage
-
-Your program should behave per the example below:
+Finally, print the result, which should include the `total amount paid` that year and the `remaining balance`.
 
 ```
 $ python minpay.py
@@ -93,7 +91,7 @@ Remaining balance: $4611.46
 Use the round function.
 To help you get started, here is a rough outline of the stages you should probably follow in writing your code:
 
-* Retrieve user input.
+* Retrieve user input. (This is already present in the starter code)
 * Initialize some state variables. Remember to find the monthly interest rate from the annual interest rate taken in as input.
 * For each month:
     * Compute the new balance. This requires computing the minimum monthly payment and figuring out how much will be paid to interest and how much will be paid to the principal.
