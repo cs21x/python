@@ -19,12 +19,4 @@
 * [CS50 Programmer's Manual](https://man.cs50.io/)
 
 ***
-
-* [Style Guide](https://cs50.readthedocs.io/style/c/)
-
-***
-
-* [**Youtube**](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
-
-***
 * CC BY-NC-SA
