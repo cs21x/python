@@ -67,7 +67,7 @@ Start at `$10` payments per month and calculate whether the balance will be paid
 Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
 
 ```
-check50 cs51x/checks/slowpayoff
+check50 cs21x/checks/slowpayoff
 ```
 
 Execute the below to evaluate the style of your code using style50.

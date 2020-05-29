@@ -4,7 +4,7 @@ title: false
 
 # Hello, world!
 
-Welcome to CS51x. 
+Welcome to CS21x. 
 
 This class aims to help students
 

@@ -27,7 +27,6 @@
 
 <div>
     <br>
-    <li></li>
     <iframe width="664" height="498" src="https://www.youtube.com/embed/SLvTCHhu5SE?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <ul>

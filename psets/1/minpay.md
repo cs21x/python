@@ -7,7 +7,7 @@ Write a program to calculate the credit card balance after one year if a person 
 Here's how to download this problem into your own [CS50 IDE](https://ide.cs50.io/). Log into CS50 IDE and then, in a terminal window, execute each of the below.
 
 * Execute `cd` to ensure that you’re in `~/` (i.e., your home directory, aka `~`).
-* Execute `cd cs51x` to change into that directory.
+* Execute `cd cs21x` to change into that directory.
 * Execute `mkdir pset1` to make (i.e., create) a directory called `pset1` in your home directory.
 * Execute `cd pset1` to change into (i.e., open) that directory.
 * Execute wget `https://www.dropbox.com/s/pbmp2pn5y3889de/minpay.zip` to download a (compressed) ZIP file with this problem’s distribution.
