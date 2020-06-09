@@ -1,4 +1,4 @@
-# A Wordgame: Hangman
+# Hangman
 
 For this problem, you will implement a variation of the classic wordgame Hangman. For those of you who are unfamiliar with the rules, you may read all about it here. In this problem, the second player will always be the computer, who will be picking a word at random.
 
@@ -63,3 +63,10 @@ Good guess: tact
 ------------
 Congratulations, you won!
 ```
+
+Do not be intimidated by this problem! It’s actually easier than it looks. Make sure you break down the problem into logical subtasks. What functions will you need to have in order for this game to work?
+
+### Hints
+* You should start by using the provided functions to load the words and pick a random one.
+* Consider using string.lowercase.
+* Consider writing helper functions. For instance, we found that creating functions to fill in guessed letters (generating strings like “ta_t”) and to display unused letters made partitioning the problem easier.
