@@ -1,9 +1,13 @@
 # Hangman
 
-For this problem, you will implement a variation of the classic wordgame Hangman. For those of you who are unfamiliar with the rules, you may read all about it here. In this problem, the second player will always be the computer, who will be picking a word at random.
+For this problem, you will implement a variation of the classic wordgame Hangman. For those of you who are unfamiliar with the rules, you may read all about it [here](https://en.wikipedia.org/wiki/Hangman_(game)). In this problem, the second player will always be the computer, who will be picking a word at random.
+
+## Getting Started
+
+TODO
 
 Implement a function, `hangman()`, that will start up and carry out an interactive Hangman game between a player and the computer.
-For this problem, you will need the code files `ps2_hangman.py` and `words.txt`, which were included in the zip file from the top of this homework. Make sure your file runs properly before editing. You should get the following output when running the unmodified version of ps2_hangman.py.
+For this problem, you will need the code files `hangman.py` and `words.txt`, which were included in the zip file. Make sure your file runs properly before editing. You should get the following output when running the unmodified version of hangman.py.
 
 ```
 Loading word list from file...
@@ -14,7 +18,7 @@ You will want to do all of your coding for this problem within this file as well
 
 ## Specifications
 
-* The computer must select a word at random from the list of available words that was provided in words.txt. The functions for loading the word list and selecting a random word have already been provided for you in ps2_hangman.py.
+* The computer must select a word at random from the list of available words that was provided in `words.txt`. The functions for loading the word list and selecting a random word have already been provided for you in `hangman.py`.
 
 * The game must be interactive: it should let a player know how many letters the word the computer has picked contains and ask the user to supply guesses. The user should receive feedback immediately after each guess. You should also display to the user the partially guessed word so far, as well as either the letters that the player has already guessed or letters that the player has yet to guess.
 
@@ -22,19 +26,19 @@ You will want to do all of your coding for this problem within this file as well
 
 * A player loses a guess only when s/he guesses incorrectly.
 
-* The game should end when the player constructs the full word or runs out of guesses. If the player runs out of guesses (s/he “loses”), reveal the word to the player when the game ends.
+* The game should end when the player constructs the full word or runs out of guesses. If the player runs out of guesses (s/he "loses"), reveal the word to the player when the game ends.
 
-The output of an example game may look like this:
+An example game should look like this:
 
 ```
->>>
+$ hangman.py
 Welcome to the game, Hangman!
 I am thinking of a word that is 4 letters long.
 ------------
 You have 8 guesses left.
 Available letters: abcdefghijklmnopqrstuvwxyz
 Please guess a letter: a
-Good guess: _a _ _
+Good guess: _a_ _ _
 ------------
 You have 8 guesses left.
 Available letters: bcdefghijklmnopqrstuvwxyz
@@ -66,7 +70,7 @@ Congratulations, you won!
 
 Do not be intimidated by this problem! It’s actually easier than it looks. Make sure you break down the problem into logical subtasks. What functions will you need to have in order for this game to work?
 
-### Hints
+## Hints
 * You should start by using the provided functions to load the words and pick a random one.
 * Consider using string.lowercase.
-* Consider writing helper functions. For instance, we found that creating functions to fill in guessed letters (generating strings like “ta_t”) and to display unused letters made partitioning the problem easier.
+* Consider writing helper functions. For instance, we found that creating functions to fill in guessed letters (generating strings like __ta_t__) and to display unused letters made partitioning the problem easier.
