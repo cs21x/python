@@ -1,5 +1,5 @@
 # Problem Set 4
 
-## What to Do
+## What to Do?
 
-1.  Submit [Caesar Cipher]({{ "/psets/4/cipher" | relative_url }})
+1.  Submit [Caesar Cipher]({{ "/psets/3/cipher" | relative_url }})

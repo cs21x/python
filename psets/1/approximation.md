@@ -41,7 +41,7 @@ For simplicity, we will only be using polynomial functions in this problem set.
 
 * Implement the `compute_root` function. 
 * This function applies Newton's method of successive approximation as described above to find a root of the polynomial function.
-* It takes in a tuple of numbers poly, an initial guess x_0, and an error bound epsilon. 
+* It takes in a tuple of numbers poly, an initial guess `x_0`, and an error bound `epsilon`. 
 * It returns a tuple. The first element is the root of the polynomial represented by poly; the second element is the number of iterations it took to get to that root.
 * The function starts at x_0. It then applies Newton's method. It ends when it finds a root x such that the absolute value of f(x) is less than epsilon, i.e. f(x) is close enough to zero. It returns the root it found as a float.
 
