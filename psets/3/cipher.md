@@ -1,5 +1,7 @@
 # Caesar Cipher
 
+In this problem set you will need to devise your own algorithms and will practice using recursion to solve a non-trivial problem.
+
 ## Background
 
 Encryption is the process of obscuring information to make it unreadable without special knowledge. For centuries, people have devised schemes to encrypt messages — some better than others — but the advent of the computer and the Internet revolutionized the field. These days, it's hard not to encounter some sort of encryption, whether you are buying something online or logging into Athena.  
@@ -7,11 +9,7 @@ Encryption is the process of obscuring information to make it unreadable without
 A cipher is an algorithm for performing encryption (and the reverse, decryption). The original information is called __plaintext__. After it is encrypted, it is called __ciphertext__. The ciphertext message contains all the information of the plaintext message, but it's not in a format readable by a human or computer without the proper mechanism to decrypt it; it should resemble random gibberish to those not intended to read it.
 A cipher usually depends on a piece of auxiliary information, called a key. The __key__ is incorporated into the encryption process; the same plaintext encrypted with two different keys should have two different ciphertexts. Without the key, it should be difficult to decrypt the resulting ciphertext into readable plaintext.  
 
-This assignment will deal with a well-known (though not very secure) encryption method called the Caesar cipher. In this problem set you will need to devise your own algorithms and will practice using recursion to solve a non-trivial problem.
-
-## Caesar Cipher
-
-In this problem set, we will examine the Caesar cipher. The basic idea in this cipher is that you pick an integer for a key, and shift every letter of your message by the key. For example, if your message was `hello` and your key was `2`, `h` becomes `j`, `e` becomes `g`, and so on. If you're interested in learning more about the Caesar cipher, check out the Wikipedia [article](https://en.wikipedia.org/wiki/Caesar_cipher).
+This assignment will deal with a well-known (though not very secure) encryption method called the Caesar cipher. The basic idea in this cipher is that you pick an integer for a key, and shift every letter of your message by the key. For example, if your message was `hello` and your key was `2`, `h` becomes `j`, `e` becomes `g`, and so on. If you're interested in learning more about the Caesar cipher, check out the Wikipedia [article](https://en.wikipedia.org/wiki/Caesar_cipher).
 
 In this problem set, we will use a variant of the standard Caesar cipher where the space character is included in the shifts: space is treated as the letter after `z`, so with a key of `2`, `y` would become `" "`, `z` would become `a`, and `" "` would become `b`.
 
@@ -36,7 +34,13 @@ The file, `cipher.py`, has a few functions already implemented that you can use 
 
 ## Encryption and Decryption
 
-Write a program to encrypt plaintext into ciphertext using the Caesar cipher by implementing the `build_coder(shift)`, `build_encoder(shift)`, `build_decoder(shift)`, `apply_coder(text, coder)` and  `apply_shift(text, shift)` functions.
+Write a program to encrypt plaintext into ciphertext using the Caesar cipher by implementing the below functions
+
+* `build_coder(shift)`
+* `build_encoder(shift)`
+* `build_decoder(shift)`
+* `apply_coder(text, coder)` 
+* `apply_shift(text, shift)`
 
 Sample runs of the functions are given below.
 

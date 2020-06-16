@@ -3,7 +3,7 @@
 1.  Watch [Lecture 17](#lecture17)
 2.  Watch [Lecture 18](#lecture18)
 3.  Watch [Lecture 19](#lecture19)
-4.  Submit [Problem Set 9]({{ "/psets/9" | relative_url }})
+4.  Submit [Problem Set 8]({{ "/psets/8" | relative_url }})
 
 ### Lecture 17
 <details>

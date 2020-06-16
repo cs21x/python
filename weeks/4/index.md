@@ -3,7 +3,7 @@
 1.  Watch [Lecture 9](#lecture9)
 2.  Watch [Lecture 10](#lecture10)
 3.  Attend [Section](https://www.youtube.com/embed/8I0BmT1ccuw)
-4.  Submit [Problem Set 5]({{ "/psets/5" | relative_url }})
+4.  Submit [Problem Set 4]({{ "/psets/4" | relative_url }})
 
 ### Lecture 9
 <details>
